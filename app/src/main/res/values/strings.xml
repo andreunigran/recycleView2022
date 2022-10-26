@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">RecycleView</string>
     <string name="button">Salvar</string>
+    <string name="editar">Editar</string>
 </resources>

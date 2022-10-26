@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andre/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/RecycleView/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/RecycleView/app/src/main/res/layout/linha.xml" value="0.33" />
       </map>
     </option>
   </component>
